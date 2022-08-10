@@ -1,0 +1,15 @@
+1
+Canal de adq (int: 1 o 2)
+0.01
+Volts/div (V) (float)
+1           
+Canal de trigger (int: 1 o 2)
+0                     
+Nivel de trigger (V) (float)        
+MAIn
+Base de tiempo (palabras dedicadas: MAIn o DELAYed)
+50e-6
+Demora de trigger (s) (float)
+5e-6
+Time/div (s) (float)
+2016-01-01 14:07
